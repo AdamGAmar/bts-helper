@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/bts-helper/static/css/main.559539e7.chunk.css",
+    "main.js": "/bts-helper/static/js/main.f3ad4a1a.chunk.js",
+    "main.js.map": "/bts-helper/static/js/main.f3ad4a1a.chunk.js.map",
+    "runtime-main.js": "/bts-helper/static/js/runtime-main.0feb563f.js",
+    "runtime-main.js.map": "/bts-helper/static/js/runtime-main.0feb563f.js.map",
+    "static/js/2.4948773c.chunk.js": "/bts-helper/static/js/2.4948773c.chunk.js",
+    "static/js/2.4948773c.chunk.js.map": "/bts-helper/static/js/2.4948773c.chunk.js.map",
+    "static/js/3.c4e5b74e.chunk.js": "/bts-helper/static/js/3.c4e5b74e.chunk.js",
+    "static/js/3.c4e5b74e.chunk.js.map": "/bts-helper/static/js/3.c4e5b74e.chunk.js.map",
+    "index.html": "/bts-helper/index.html",
+    "static/css/main.559539e7.chunk.css.map": "/bts-helper/static/css/main.559539e7.chunk.css.map",
+    "static/js/2.4948773c.chunk.js.LICENSE.txt": "/bts-helper/static/js/2.4948773c.chunk.js.LICENSE.txt",
+    "static/media/3-0.c7d1e6b6.png": "/bts-helper/static/media/3-0.c7d1e6b6.png",
+    "static/media/3-1.745d1033.png": "/bts-helper/static/media/3-1.745d1033.png",
+    "static/media/3-10.3711c25c.png": "/bts-helper/static/media/3-10.3711c25c.png",
+    "static/media/3-11.e6773351.png": "/bts-helper/static/media/3-11.e6773351.png",
+    "static/media/3-12.50e02cf1.png": "/bts-helper/static/media/3-12.50e02cf1.png",
+    "static/media/3-13.642a9e96.png": "/bts-helper/static/media/3-13.642a9e96.png",
+    "static/media/3-14.c7f5e381.png": "/bts-helper/static/media/3-14.c7f5e381.png",
+    "static/media/3-15.eb6f1315.png": "/bts-helper/static/media/3-15.eb6f1315.png",
+    "static/media/3-2.70ac2afb.png": "/bts-helper/static/media/3-2.70ac2afb.png",
+    "static/media/3-3.f149fab2.png": "/bts-helper/static/media/3-3.f149fab2.png",
+    "static/media/3-4.982a073d.png": "/bts-helper/static/media/3-4.982a073d.png",
+    "static/media/3-5.7d11d9f9.png": "/bts-helper/static/media/3-5.7d11d9f9.png",
+    "static/media/3-6.d04d8bde.png": "/bts-helper/static/media/3-6.d04d8bde.png",
+    "static/media/3-7.7e0dcee0.png": "/bts-helper/static/media/3-7.7e0dcee0.png",
+    "static/media/3-8.dd45c300.png": "/bts-helper/static/media/3-8.dd45c300.png",
+    "static/media/3-9.c46537c3.png": "/bts-helper/static/media/3-9.c46537c3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0feb563f.js",
+    "static/js/2.4948773c.chunk.js",
+    "static/css/main.559539e7.chunk.css",
+    "static/js/main.f3ad4a1a.chunk.js"
+  ]
+}
